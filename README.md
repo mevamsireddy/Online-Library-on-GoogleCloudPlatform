@@ -31,7 +31,7 @@ Online Library on Google Cloud: A PHP and MySQL-based library management system 
 -Adapt the system for use in office environments, with modifications to suit specific requirements.
 
 **Deployment**\
-To deploy this Online Library Management System on Google Cloud:\
+To deploy this Online Library Management System on Google Cloud:
 
 1. Set up a Compute Engine instance with Debian OS.
 2. Install and configure the LAMP stack.
