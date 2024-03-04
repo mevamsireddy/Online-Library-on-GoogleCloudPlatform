@@ -27,8 +27,8 @@ Online Library on Google Cloud: A PHP and MySQL-based library management system 
 **HTML/CSS:** Markup and styling languages for web development.\
 
 **Future Scope**\
-Extend usage to other educational institutions for managing and providing information about available books.\
-Adapt the system for use in office environments, with modifications to suit specific requirements.
+-Extend usage to other educational institutions for managing and providing information about available books.\
+-Adapt the system for use in office environments, with modifications to suit specific requirements.
 
 **Deployment**\
 To deploy this Online Library Management System on Google Cloud:
